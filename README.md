@@ -8,6 +8,8 @@ This app shows how you can use [Spring AI](https://github.com/spring-projects/sp
 - Can access tools (Java methods) to perform actions (Function Calling)
 - Uses an LLM to interact with the user
 
+-This is test versin
+
 ![alt text](diagram.jpg)
 
 ## Requirements
